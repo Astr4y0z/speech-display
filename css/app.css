@@ -1,0 +1,16 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+h1 {
+    /* visibility: hidden; */
+    opacity: 0;
+}
+#output {
+    font-family: 'Vina Sans', sans-serif;
+    font-size: 300px;
+    line-height: 220px;
+    position: absolute;
+    top: 0px;
+}
+iframe{
+    width: 100vw;
+    height: 100vh;
+}
